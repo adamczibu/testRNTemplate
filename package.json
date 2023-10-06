@@ -2,6 +2,7 @@
   "name": "testrntemplate",
   "version": "0.0.1",
   "description": "React Native Template",
+  "repository": "https://github.com/adamczibu/testRNTemplate.git",
   "author": "Appendgo",
   "license": "MIT"
 }
